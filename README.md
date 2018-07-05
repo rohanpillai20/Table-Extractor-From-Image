@@ -6,7 +6,10 @@ NOTE: Still in development mode.
 
 Modules Required
 ------------
-os, copy, pandas, openpyxl
+os<br>
+copy<br>
+pandas==0.22.0<br>
+openpyxl==2.4.9<br>
 You can also use requirements.txt to install the packages. How? Follow this [link].
 
 Flow
