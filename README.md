@@ -6,7 +6,8 @@ NOTE: Still in development mode.
 
 Modules Required
 ------------
-<!-- To Be Updated Soon -->
+os, copy, pandas, openpyxl
+You can also use requirements.txt to install the packages. How? Follow this [link].
 
 Flow
 ------------
@@ -24,3 +25,4 @@ Steps
     
 [Microsoft Azure Cognitive Services OCR API]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/
 [text reader demo]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/#text
+[link]: https://stackoverflow.com/questions/7225900/how-to-install-packages-using-pip-according-to-the-requirements-txt-file-from-a
