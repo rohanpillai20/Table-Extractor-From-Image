@@ -25,8 +25,17 @@ Steps
 3. In the program, change the input path and output path according to your requirement.
 4. Run the program.
     
-    
-    
+Sample Test Case
+------------    
+
+Input Image:
+#To be updated later
+
+It's Corresponding JSON:
+#To be updated later
+
+Excel Output:
+#To be updated later    
     
 [Microsoft Azure Cognitive Services OCR API]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/
 [text reader demo]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/#text
