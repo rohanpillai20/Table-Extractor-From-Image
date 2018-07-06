@@ -30,7 +30,7 @@ Sample Test Case
 
 Input Image:
 
-![Excel Output](https://raw.githubusercontent.com/rohanpillai20/Table-Extractor-From-Image/blob/master/Sample%20Test%20Case/Testcase4.PNG)
+![Input Image](https://raw.githubusercontent.com/rohanpillai20/Table-Extractor-From-Image/blob/master/Sample%20Test%20Case/Testcase4.PNG)
 
 It's Corresponding JSON:
 
