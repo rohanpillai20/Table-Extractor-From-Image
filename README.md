@@ -19,9 +19,11 @@ Image -> JSON -> Excel
 Steps
 ------------
 1. First of all, install all the import packages specified in the requirements.txt
-2. For "reading" an image use an OCR that converts the format to JSON. 
+2. For "reading" an image, use an OCR that converts the format to JSON. 
     -    You can use your own OCR or use [Microsoft Azure Cognitive Services OCR API].
     -    Or you can upload the image at their [text reader demo]. The demo will give you the JSON of the image. Save the JSON to a notepad and run the program.
+3. In the program, change the input path and output path according to your requirement.
+4. Run the program.
     
     
     
