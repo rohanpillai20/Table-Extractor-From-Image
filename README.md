@@ -23,19 +23,22 @@ Steps
     -    You can use your own OCR or use [Microsoft Azure Cognitive Services OCR API].
     -    Or you can upload the image at their [text reader demo]. The demo will give you the JSON of the image. Save the JSON to a notepad and run the program.
 3. In the program, change the input path and output path according to your requirement.
-4. Run the program.
+4. Run the program (JSON-to-Excel.py).
     
 Sample Test Case
 ------------    
 
 Input Image:
-#To be updated later
+
+![Excel Output](https://raw.githubusercontent.com/rohanpillai20/Table-Extractor-From-Image/blob/master/Sample%20Test%20Case/Testcase4.PNG)
 
 It's Corresponding JSON:
-#To be updated later
+
+
 
 Excel Output:
-#To be updated later    
+
+![Excel Output](https://raw.githubusercontent.com/rohanpillai20/Table-Extractor-From-Image/blob/master/Sample%20Test%20Case/Testcase4_Excel.PNG)
     
 [Microsoft Azure Cognitive Services OCR API]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/
 [text reader demo]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/#text
