@@ -34,11 +34,11 @@ Input Image:
 
 It's Corresponding JSON:
 
-![JSON](https://imgur.com/a/winhl5x)
+[![JSON](https://s33.postimg.cc/hmjqunksf/Capture.png)](https://postimg.cc/image/naq1ljp4r/)
 
 Excel Output:
 
-![Excel Output](https://imgur.com/a/mAyMxJk)
+[![Excel Output](https://s33.postimg.cc/dq6eyqke7/Testcase4_Excel.png)](https://postimg.cc/image/hmjquq5dn/)
     
 [Microsoft Azure Cognitive Services OCR API]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/
 [text reader demo]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/#text
