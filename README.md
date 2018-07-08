@@ -2,7 +2,6 @@ Table Extractor From Image
 ==================================
 This repository contains the code that extracts a table from an image and exports it to an Excel. To do this, the image is "read" by an OCR which provides a JSON output which is used as the input to the program. The program then arranges the cells row and column-wise as per the JSON input.
 
-NOTE: Still in development mode.
 
 Modules Required
 ------------
