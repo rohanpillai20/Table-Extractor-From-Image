@@ -30,7 +30,7 @@ Sample Test Case
 
 Input Image:
 
-![Input Image](https://imgur.com/a/DG1I8WM)
+[![Input Image](https://s33.postimg.cc/8eridq8in/Testcase4.png)](https://postimg.cc/image/hmjquffkr/)
 
 It's Corresponding JSON:
 
