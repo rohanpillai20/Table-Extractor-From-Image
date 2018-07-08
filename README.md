@@ -30,15 +30,15 @@ Sample Test Case
 
 Input Image:
 
-![Input Image](https://raw.githubusercontent.com/rohanpillai20/Table-Extractor-From-Image/blob/master/Sample%20Test%20Case/Testcase4.PNG)
+![Input Image](https://imgur.com/a/DG1I8WM)
 
 It's Corresponding JSON:
 
-
+![JSON](https://imgur.com/a/winhl5x)
 
 Excel Output:
 
-![Excel Output](https://raw.githubusercontent.com/rohanpillai20/Table-Extractor-From-Image/blob/master/Sample%20Test%20Case/Testcase4_Excel.PNG)
+![Excel Output](https://imgur.com/a/mAyMxJk)
     
 [Microsoft Azure Cognitive Services OCR API]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/
 [text reader demo]: https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/#text
